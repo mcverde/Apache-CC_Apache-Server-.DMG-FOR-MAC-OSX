@@ -5,15 +5,18 @@ Apache2.4, MySql, PHP, PhpmyAdmin MacOSX .DMG
 
 -Run INSTALL.
 
-    *It will prompt a windows telling you that it can't be installed.
+    * It will prompt a windows telling you that it can't be installed.
     
 -Open System Preferences.
+    * Open Security and Privacy 
+
+-Click "Allow Anyway".
 
 
 -Open your Website at http://localhost
 
 
--Click "Allow Anyway".
+
 
 Enjoy!
 
