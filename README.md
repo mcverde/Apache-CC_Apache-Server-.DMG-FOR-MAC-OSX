@@ -1,7 +1,7 @@
 # Apache2.4_Mysql_PHP_Phpmyadmin_MACOSX
 Apache2.4, MySql, PHP, PhpmyAdmin MacOSX .DMG
 
--Download.
+-Download. https://github.com/mcverde/Apache2.4_Mysql_PHP_Phpmyadmin_MACOSX/blob/master/APACHE2.4_PHP7_MySQL5_PHPMYADMIN_MACOSX.dmg?raw=true
 
 -Run INSTALL.
 
