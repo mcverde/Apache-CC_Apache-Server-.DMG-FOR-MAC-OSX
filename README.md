@@ -8,7 +8,9 @@ Apache2.4, MySql, PHP, PhpmyAdmin MacOSX .DMG
     * It will prompt a windows telling you that it can't be installed.
     
 -Open System Preferences.
-    * Open Security and Privacy 
+   
+   
+   * Open Security and Privacy 
 
 -Click "Allow Anyway".
 
